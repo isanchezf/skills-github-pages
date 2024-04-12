@@ -3,7 +3,8 @@ layout: post
 title: "My first post"
 date: 2024-04-11 19:06:00 -0000
 categories: CATEGORY-1 CATEGORY-2
-permalink: /skills-github-pages/:year/:month/:day/:title.html
+baseurl: /skills-github-pages
+#permalink: /skills-github-pages/:year/:month/:day/:title.html
 ---
 # Este es mi primer post
 
