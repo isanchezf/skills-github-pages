@@ -4,6 +4,4 @@ title: Welcome to my first page
 ---
 # ¡Bienvenido!
 
-{% for post in site.posts %}
-  - [{{ post.title }}]({{ post.url }})
-{% endfor %}
+[My First Post]({% link _posts/2024-04-11-MyFirstPost.md %})
