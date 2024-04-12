@@ -6,12 +6,6 @@ author: Ivan Sanchez
 description: Github Page Lab
 baseurl: /skills-github-pages
 
-collections:
-  my_collection:
-    output: true
-    permalink: /:collection/:name
-
-
-#permalink: /:year/:month/:day/:title.html
+permalink: /:baseurl /:year/:month/:day/:title.html
 #permalink: /:title.html/
 
