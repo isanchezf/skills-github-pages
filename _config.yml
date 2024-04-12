@@ -4,4 +4,6 @@ plugins:
 title: My first page!
 author: Ivan Sanchez
 description: Github Page Lab
-permalink: skills-github-pages/:year/:month/:day/:title.html
+#permalink: skills-github-pages/:year/:month/:day/:title.html
+permalink: /:title/
+
